@@ -1,4 +1,102 @@
-# al-folio
+# Personal Use Experience
+**Date:** 21/08/2024
+
+## Quick Deployment on GitHub
+
+For a detailed reference, see the [GitHub page](https://github.com/alshedivat/al-folio/issues/1438).
+
+Follow these steps for a quick setup:
+
+1. **Create a New Repository:**
+   - At the page [alshedivat/al-folio](https://github.com/alshedivat/al-folio), start by clicking on **"Use this template"** and select **"Create a new repository."**
+   - Make sure to check the option **"Include all branches."** This is crucial as you'll need the `gh-pages` branch later.
+   - Name the repository `<your-github-username>.github.io` and make it public.
+
+2. **Set Permissions:**
+   - Navigate to **Settings -> Actions -> General -> Workflow permissions** in your new repository.
+   - Enable **Read and write** permissions for GitHub Actions.
+
+3. **Configure _config.yml:**
+   - In the `_config.yml` file, set the `url` to `https://<your-github-username>.github.io`.
+   - Leave the `baseurl` field empty.
+
+4. **Set Up Deployment:**
+   - Go to **Settings -> Pages -> Build and deployment**.
+   - Ensure that the **Source** is set to **Deploy from a branch**, and select the `gh-pages` branch (not `master`).
+
+5. **Finalize the Setup:**
+   - Wait for GitHub Actions to complete the deployment.
+   - Once done, visit `https://<your-github-username>.github.io` to see your site live.
+
+### Important Notes:
+- In step 1, don’t forget to select **Include all branches**.
+- After step 2, jump to step 4 before returning to step 3.
+- Once step 3 is complete, commit the changes to your `master` branch.
+- Visit the **Actions** tab in your GitHub repository to monitor the deployment process.
+- Finally, check your site at `https://<your-github-username>.github.io`.
+
+### Troubleshooting:
+If your site at `https://<your-github-username>.github.io` doesn't render correctly and shows an error related to `prettier code formatter workflow`, you can choose to disable the Prettier workflow. To do this,
+
+> You can also disable it for your repo. For this, just delete the file .github/workflows/prettier.yml.
+
+from [page](https://github.com/jianhua-WANG-ENS/jianhua-WANG-ENS.github.io/blob/master/FAQ.md#deployment).
+
+## Local Installation and Development
+
+If you want to download, customize, and test this personal homepage locally before creating a GitHub repository, follow these steps:
+
+1. **Clone the Repository:**
+   - Start by cloning the `al-folio` repository with the `main` branch.
+   - Use the following command:
+     ```bash
+     git clone -b main https://github.com/alshedivat/al-folio.git
+     ```
+
+2. **Set Up the Environment:**
+   - It’s recommended to use a Linux environment. Navigate to the `al-folio` folder and execute the following commands. If Docker is not installed, follow the installation instructions provided in the command line.
+     ```bash
+     sudo docker compose pull
+     sudo docker compose up
+     ```
+   
+3. **Access the Local Site:**
+   - Once the setup is complete, you can view your personal homepage at `http://localhost:8080/al-folio/`.
+   
+4. **Customize and Test:**
+   - Make any customizations you like to the files, and you'll see the homepage update in real time.
+
+### Deployment Suggestions
+
+After completing the local development phase, you can deploy your customized site by following these steps:
+
+1. **Quick Deployment on GitHub:**
+   - Follow the steps in the `Quick Installation Guide` to create a GitHub repository (let’s call it `deploy-repo`) and test the deployment.
+
+2. **Clone the Deployment Repository:**
+   - Clone your `deploy-repo` to your local machine using:
+     ```bash
+     git clone https://github.com/<your-github-username>/deploy-repo.git
+     ```
+
+3. **Replace Configuration Files:**
+   - Replace the configuration files in your `deploy-repo` with your customized files from your local development repository.
+
+4. **Push Changes:**
+   - Push all changes to your GitHub repository. Your site should deploy automatically.
+
+- Understand the `_site` Folder:
+   - The `_site` folder contains the locally rendered website. While it’s useful for local testing, GitHub Pages will automatically generate similar files in the `gh-pages` branch upon deployment. Ensure that the `_site` folder is not pushed to the `gh-pages` branch as it’s not necessary for GitHub deployment.
+
+### Alternative Deployment Option
+
+- Another option is to upload the contents of the `_site` folder directly, as it contains a self-contained website. However, this method has not been extensively tested.
+
+
+----
+----
+
+## al-folio
 
 <div align="center">
 
@@ -210,7 +308,14 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 ## Table Of Contents
 
-- [al-folio](#al-folio)
+- [Personal Use Experience](#personal-use-experience)
+  - [Quick Deployment on GitHub](#quick-deployment-on-github)
+    - [Important Notes:](#important-notes)
+    - [Troubleshooting:](#troubleshooting)
+  - [Local Installation and Development](#local-installation-and-development)
+    - [Deployment Suggestions](#deployment-suggestions)
+    - [Alternative Deployment Option](#alternative-deployment-option)
+  - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
     - [Desktop](#desktop)
