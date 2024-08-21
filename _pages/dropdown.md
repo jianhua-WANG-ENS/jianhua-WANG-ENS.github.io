@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # true for showing in the navigation bar above
 nav_order: 8
 dropdown: true
 children:
