@@ -19,10 +19,10 @@ nav_order: 3
 
 + **"Antenna Sub-Array Switching Strategy for Low-Cost & High-Resolution Radio-Astronomical Imaging"**  ([slides]())
     - *Presented at:* IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), 2023
-    - *Location:* Zhengzhou, China 
+    - *Location:* Zhengzhou, China
 
 + **"Barankin Bound vs Cramér-Rao Bound for Interferometric-Like Array Design at Low SNR"**  ([slides]())
-    - *Presented at:* 31st European Signal Processing Conference (EUSIPCO), 2023 
+    - *Presented at:* 31st European Signal Processing Conference (EUSIPCO), 2023
     - *Location:* Helsinki, Finland
 
 + **"Borne Barankin vs Borne Cramér-Rao pour la Géométrie de Réseaux d'Antennes en Radioastronomie"**  ([slides]())
@@ -31,7 +31,7 @@ nav_order: 3
 
 ---
 
-## Participated Project
+<!-- ## Participated Project
 
 #### AAPG2024: Performance and Design of Radio Interferometers with large eXtent (PerDRIX)
 
@@ -42,5 +42,5 @@ From July 2024 (48 months)
 **Objectives**:
 - Derive natural and meaningful estimation accuracy measures for the imaging task in radio astronomy.
 - Propose useful optimization criteria and algorithms for the array configuration of radio interferometers, based on the aforementioned imaging accuracy measures.
-- Apply the proposed tools to practical radio interferometer use cases: optimization of a whole radio interferometer array configuration, but also design of observations and optimal observation resource allocation (e.g. optimal sub-arraying) on existing facilities.
+- Apply the proposed tools to practical radio interferometer use cases: optimization of a whole radio interferometer array configuration, but also design of observations and optimal observation resource allocation (e.g. optimal sub-arraying) on existing facilities. -->
 
