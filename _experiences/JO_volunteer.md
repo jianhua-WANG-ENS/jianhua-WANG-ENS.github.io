@@ -12,6 +12,8 @@ related_publications: false
 
 📅Jul. - Aug. 2024
 
+<iframe  frameborder="0"  scrolling="no" src="https://openbadgepassport.com/app/badge/info/799429/pic/embed" width="200" height="150"></iframe>
+
 ## Journey to Becoming a Volunteer
 In Feburary 2023, I committed to becoming a volunteer for the Paris 2024 Olympic Games and initiated the official registration process. This marked the beginning of an exciting journey toward contributing to one of the world's most prestigious sporting events.
 

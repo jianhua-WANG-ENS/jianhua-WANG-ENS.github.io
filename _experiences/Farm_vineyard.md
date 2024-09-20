@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vineyard Farm Experience
-description: Volunteer Work at a Vineyard Farm
+title: Natural Vineyard Farm Experience
+description: Volunteer Work at a Natural Vineyard Farm
 img: assets/img/wwoofing/woofing_wine_drinking.jpg
 importance: 2
 category: work
@@ -88,3 +88,15 @@ During July and August of 2022 and 2023, I embarked on a rewarding WWOOFing jour
 </div>
 
 This summer WWOOFing experience was a blend of hard work, cultural exchange, and personal relaxation. It offered valuable lessons and created lasting memories that I will carry with me into the future.
+
+
+----
+
+#### About the Natural Vineyard: Le Petit Domaine de Gimios
+
+Le Petit Domaine de Gimios is a renowned natural vineyard in the Languedoc region, managed by Anne-Marie and Pierre Lavaysse. Known for their commitment to organic and biodynamic farming, the vineyard produces exceptional wines with minimal intervention, highlighting the true character of the terroir.
+
+**Learn more:**
+1. [Petit Domaine de Gimios - Anne-Marie & Pierre Lavaysse (Languedoc)](https://www.caveduclown.fr/en/pages/petit-domaine-de-gimios-anne-marie-pierre-lavaysse)
+2. [Le Petit Domaine de Gimios – Natural Wine Focus](https://www.diverseywine.com/blog/2020/10/14/le-petit-domaine-de-gimios)
+
