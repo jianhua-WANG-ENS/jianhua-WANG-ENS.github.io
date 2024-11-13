@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, titled "**Low-rank EM-based imaging for large-scale switched interferometric arrays**", has been accepted for publication as a LETTER in the IEEE Signal Processing Letters!
+Our paper, titled "**Low-rank EM-based imaging for large-scale switched interferometric arrays**", has been accepted for publication as a LETTER in the IEEE Signal Processing Letters! You can view it [here](https://doi.org/10.1109/LSP.2024.3495554).
