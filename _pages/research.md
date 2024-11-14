@@ -9,7 +9,7 @@ nav_order: 3
 
 ---
 
-## Some talks
+## Talks
 
 + ***EM Algorithms for Interferometric Imaging with Subarray Switching*** (***Algorithmes EM pour l’imagerie interférométrique avec commutations de sous-réseaux d’antennes***), Research Topic Day "State of the Art of Inversion Methods in Astronomy and Upcoming Challenges" ("État des lieux des méthodes d’inversion en astronomie et challenges à venir") organized by [GdR-IASIS](https://gdr-iasis.cnrs.fr/reunion/526/) at Paris-Saclay University, June 20, 2024 ([slides]())
 
@@ -28,6 +28,11 @@ nav_order: 3
 + **"Borne Barankin vs Borne Cramér-Rao pour la Géométrie de Réseaux d'Antennes en Radioastronomie"**  ([slides]())
     - *Presented at:* Group Recherche Traitement Signal Images (GRETSI), 2023
     - *Location:* Grenoble, France
+ 
+## Reviewing Activities
+
++ **Aerospace Science and Technology**
++ **IET Control Theory & Applications**
 
 ---
 
