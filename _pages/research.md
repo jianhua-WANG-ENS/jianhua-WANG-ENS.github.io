@@ -31,12 +31,13 @@ nav_order: 3
  
 ## Reviewing Activities
 
++ **IEEE Transactions on Fuzzy Systems**
 + **Aerospace Science and Technology**
 + **IET Control Theory & Applications**
 
 ---
 
-<!-- ## Participated Project
+## Participated Project
 
 #### AAPG2024: Performance and Design of Radio Interferometers with large eXtent (PerDRIX)
 
@@ -47,5 +48,5 @@ From July 2024 (48 months)
 **Objectives**:
 - Derive natural and meaningful estimation accuracy measures for the imaging task in radio astronomy.
 - Propose useful optimization criteria and algorithms for the array configuration of radio interferometers, based on the aforementioned imaging accuracy measures.
-- Apply the proposed tools to practical radio interferometer use cases: optimization of a whole radio interferometer array configuration, but also design of observations and optimal observation resource allocation (e.g. optimal sub-arraying) on existing facilities. -->
+- Apply the proposed tools to practical radio interferometer use cases: optimization of a whole radio interferometer array configuration, but also design of observations and optimal observation resource allocation (e.g. optimal sub-arraying) on existing facilities.
 
