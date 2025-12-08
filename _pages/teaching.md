@@ -12,23 +12,25 @@ nav_order: 3
     + Institution: IUT d'Orsay
     + Format: **24 hours**, Tutorials (TD)
     + Level: First-year undergraduate, with Prof. **Elodie Leducq**
-    + Content: Covered topics including Logic and Reasoning, Set Theory Vocabulary, Arithmetic, Relations, Functions, and Applications.  
-    + **Responsibilities**: Prepared and graded tests.
+    + Content: covered topics including Logic and Reasoning, Set Theory Vocabulary, Arithmetic, Relations, Functions, and Applications.  
+    + **Responsibilities**: Delivered tutorial sessions, prepared and graded exercises.
  
 + **R208 Digital Tools for Descriptive Statistics (Outils numériques pour les statistiques descriptives)**
     + Institution: IUT d'Orsay
     + Format: **24 hours**, Tutorials (TD)
-    + Level: First-year undergraduate, with Prof. **???**
-    + Content: ???
-    + **Responsibilities**: ???
+    + Level: First-year undergraduate, with Prof. **Sebastien Pichery**
+    + Content: covered the fundamental concepts of probability and statistics, which are essential for data analysis, interpretation, and modelling in computer science.
+    + **Responsibilities**: Delivered tutorial sessions, prepared and graded assessments.
+ 
  
     
 + **R309 Linear Algebra and Coding (Algèbre linéaire et codage)**
     + Institution: IUT d'Orsay
     + Format: **21 hours**, Tutorials (TD)
     + Level: Second-year undergraduate, with Prof. **Elodie Leducq**
-    + Content: Covered topics in Linear Algebra, including Vector Spaces, Linearly Independent Sets, Generating Sets, Bases, and Dimension. The course then transitioned to Error-Correcting Codes, covering general principles of error correction, Linear Codes, Error Detection and Correction, and the McEliece Cryptosystem.
-    + **Responsibilities**: Prepared and graded tests.
+    + Content: covered topics in Linear Algebra, including Vector Spaces, Linearly Independent Sets, Generating Sets, Bases, and Dimension. The course then transitioned to Error-Correcting Codes, covering general principles of error correction, Linear Codes, Error Detection and Correction, and the McEliece Cryptosystem.
+    + **Responsibilities**: Delivered tutorial sessions, prepared exercises, and graded final assessments.
+ 
 
 ## 2023-2024
 
@@ -36,14 +38,15 @@ nav_order: 3
     + Institution: IUT d'Orsay
     + Format: **28 hours**, Tutorials (TD)
     + Level: First-year undergraduate, with Prof. **Bruno Duchesne**
-    + Content: Covered numerical methods for solving linear and nonlinear equations, and numerical integration.
-    + **Responsibilities**: Prepared and graded tests and final exams.
+    + Content: covered numerical methods for solving linear and nonlinear equations, and numerical integration.
+    + **Responsibilities**: Delivered tutorial sessions, prepared exercises, and graded final assessments.
+ 
 
 + **R201 Object-Oriented Development (Java)**
     + Institution: IUT d'Orsay
     + Format: **21 hours**, Lab sessions (TP)
     + Level: First-year undergraduate, with Prof. **Jean-Claude Martin**
-    + Content: Covered object-oriented programming principles using Java.
+    + Content: covered object-oriented programming principles using Java.
     + **Responsibilities**: Prepared and graded tests.
 
 + **452 Signal Processing (Traitement du signal)**
