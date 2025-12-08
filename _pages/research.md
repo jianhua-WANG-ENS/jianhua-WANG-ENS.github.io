@@ -16,13 +16,11 @@ nav_order: 3
   Technical Webinar Series of the Joint Laboratory **ECLAT**, September 12, 2025  
   [Webinar page](https://eclat-lab.fr/webinaire-vers-une-imagerie-interferometrique-efficiente-et-robuste-aux-rfi/) • [Recording](https://astrotube.obspm.fr/w/jMigco3zBh6VHKBVpXQkpB)
 
----
 
 + **Deep Learning Methods for Antenna Selection in Radio Imaging via Subarray Switching**  
   *(Méthode d’apprentissage profond pour la sélection d’antennes en imagerie radio par commutation de sous-réseaux)*  
   **ANR PerDRIX** Project Meeting, ENS Paris-Saclay, January 6, 2025
 
----
 
 + **EM Algorithms for Interferometric Imaging with Subarray Switching**  
   *(Algorithmes EM pour l’imagerie interférométrique avec commutations de sous-réseaux d’antennes)*  
