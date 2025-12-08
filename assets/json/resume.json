@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Jianhua WANG",
-    "label": "PhD Student in Signal and Image Processing",
+    "label": "Postdoc researcher in Signal and Image Processing",
     "image": "",
-    "email": "jianhua.wang at ens-paris-saclay.fr",
+    "email": "jianhua.wang at parisnanterre dot fr",
     "url": "https:jianhua-WANG-ENS.github.io",
-    "summary": "A PhD student in statistical signal processing in the field of radio-astronomy",
+    "summary": "A Postdoc researcher in statistical signal processing",
     "location": {
-      "address": "4, avenue des Sciences",
-      "postalCode": "91190",
-      "city": " Gif-sur-Yvette",
+      "address": "2 Rue Conté",
+      "postalCode": "75003",
+      "city": "Paris",
       "countryCode": "Fr",
       "region": "Paris"
     },
@@ -29,7 +29,7 @@
       "area": "Signal and image processing",
       "studyType": "PhD",
       "startDate": "2021-10-01",
-      "endDate": "2025-10-01",
+      "endDate": "2025-10-02",
       "score": "10",
       "courses": ["Radioastromical imaging", "Interference", "Expectation-Maximization algorithm", "Antenna selection", "Model-based learning"]
     },
