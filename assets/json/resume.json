@@ -4,13 +4,13 @@
     "label": "Postdoc researcher in Signal and Image Processing",
     "image": "",
     "email": "jianhua.wang at parisnanterre dot fr",
-    "url": "https:jianhua-WANG-ENS.github.io",
-    "summary": "A Postdoc researcher in statistical signal processing",
+    "url": "https://jianhua-WANG-ENS.github.io",
+    "summary": "A postdoc researcher in statistical signal processing",
     "location": {
       "address": "2 Rue Conté",
       "postalCode": "75003",
       "city": "Paris",
-      "countryCode": "Fr",
+      "countryCode": "FR",
       "region": "Paris"
     },
     "profiles": [
@@ -23,15 +23,15 @@
   },
   "education": [
     {
-      "institution": "University of Paris-Saclay, Paris, Frence",
-      "location": "Paris, Frence",
+      "institution": "University of Paris-Saclay, Gif-sur-yvette, France",
+      "location": "Paris, France",
       "url": "https://www.universite-paris-saclay.fr/en",
       "area": "Signal and image processing",
       "studyType": "PhD",
       "startDate": "2021-10-01",
       "endDate": "2025-10-02",
       "score": "10",
-      "courses": ["Radioastromical imaging", "Interference", "Expectation-Maximization algorithm", "Antenna selection", "Model-based learning"]
+      "courses": ["Radioastronomical imaging", "Interference", "Expectation-Maximization algorithm", "Antenna selection", "Model-based learning"]
     },
     {
       "institution": "Centrale Pékin, Beihang University, Beijing, China",
@@ -55,8 +55,8 @@
       "score": "10"
     },
     {
-      "institution": "ESTACA (École supérieure des techniques aéronautiques et de construction automobile), Paris, Frence",
-      "location": "Beijing, China",
+      "institution": "ESTACA (École supérieure des techniques aéronautiques et de construction automobile), Paris, France",
+      "location": "Paris, France",
       "url": "https://www.estaca.fr/en/",
       "area": "Aeronautics and Aerospace",
       "studyType": "Exchange Semester",
@@ -66,6 +66,16 @@
     }
   ],
   "work": [
+      {
+      "name": "Cedric lab, CNAM/LEME, Université Paris Nanterre",
+      "location": "Paris, France",
+      "position": "Postdoc researcher on graph learning",
+      "url": "https://cedric.cnam.fr/welcome/",
+      "startDate": "2025-10-06",
+      "endDate": "2026-10-01",
+      "summary": "Graph learning enriched with additional metadata associated with nodes, such as labels or attributes not directly related to the observed signals.",
+      "highlights": ["Graph learning", "graph signals", "optimization"]
+    },
     {
       "name": "Integrated Energy Solutions team, EDF China R&D",
       "location": "Beijing, China",
@@ -114,6 +124,15 @@
     }
   ],
   "talks": [
+      {
+      "organization": "ECLAT",
+      "location": "Webinaire",
+      "position": "Algorithmes EM pour l'imagerie interférométrique avec commutations de sous-réseaux d'antennes",
+      "url": "https://eclat-lab.fr/webinaire-vers-une-imagerie-interferometrique-efficiente-et-robuste-aux-rfi/",
+      "startDate": "2025-09-12",
+      "endDate": "2025-09-12",
+      "summary": "Technical Webinar Series of the Joint Laboratory ECLAT"
+    },
     {
       "organization": "GdR-IASIS",
       "location": "Université Paris-Saclay",
@@ -127,22 +146,22 @@
   "volunteer": [
     {
       "organization": "Sport Climbing Venue, Le Bourget",
-      "location": "Paris, Frence",
+      "location": "Paris, France",
       "position": "Paris 2024 Olympic Games, Sport Climbing Information Team",
       "url": "https://olympics.com/fr/paris-2024/sites/site-d-escalade-bourget",
       "startDate": "2024-07-26",
       "endDate": "2024-08-11",
-      "summary": "Assistance to athletes and coache.",
+      "summary": "Assistance to athletes and coaches.",
       "highlights": ["Translation for the Chinese team during competitions, medal ceremonies, and anti-doping checks.", "Assistance to athletes and coaches in the warm-up and isolation zones and Welcoming athletes in the athletes' lounge after competitions."]
     },
     {
       "organization": "HelpX",
-      "location": "Narbonne, Frence",
-      "position": "Agricultural Assistant at a Family Vineyard (Wwoofing)",
+      "location": "Narbonne, France",
+      "position": "Agricultural Assistant at the Vineyard-Le Petit Gimios (Wwoofing)",
       "url": "",
       "startDate": "2023-07-29",
       "endDate": "2023-08-13",
-      "summary": "Assisted in the production of organic wine at a family vineyard.",
+      "summary": "Assisted in the production of organic wine at the vineyard-Le Petit Gimios.",
       "highlights": [" Cleaning wine vats in the garden.", "Harvesting grapes in the vineyard and pressing them."]
     }
   ],
@@ -168,13 +187,13 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent (C1)",
-      "icon": "fa-solid fa-battery-three-quarters"
+      "fluency": "Fluent",
+      "icon": "fa-solid fa-battery-full"
     },
     {
       "language": "French",
-      "fluency": "Fluent (C1)",
-      "icon": "fa-solid fa-battery-three-quarters"
+      "fluency": "Fluent",
+      "icon": "fa-solid fa-battery-full"
     }
   ],
   "interests": [
@@ -190,7 +209,7 @@
       ]
     },
     {
-      "name": "miscellaneous",
+      "name": "Miscellaneous",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Reading",
